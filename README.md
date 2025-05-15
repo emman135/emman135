@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! 👋
 
 <!--
 **emman135/emman135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Emma Nguyen and I'm an undergraduate student at UC Santa Cruz, majoring in Computer Science. I am interested in software engineering, with more experience in web development.
+My name is Emma Nguyen and I'm an undergraduate student at UC Santa Cruz majoring in Computer Science. I am interested in software engineering with more experience in web development ~
